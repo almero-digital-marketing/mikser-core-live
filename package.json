@@ -1,19 +1,16 @@
 {
   "name": "mikser-core-live",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {},
-  "peerDependencies": {
-    "mikser-core": "^1.0.2"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/almero-digital-marketing/mikser-core-live.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/almero-digital-marketing/mikser-core-live/issues"
   },
